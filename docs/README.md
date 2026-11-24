@@ -10,6 +10,7 @@ Journal and Market Stall. No ads, no purchases, no data collection.
 | [DESIGN_LANGUAGE.md](DESIGN_LANGUAGE.md) | Five-colour palette, Fraunces type, spacing, components, motion, words |
 | [IMPROVEMENT_PLAN.md](IMPROVEMENT_PLAN.md) | Ship-pass audit, concept, roadmap, readiness checklist |
 | [PRIVACY_POLICY.md](PRIVACY_POLICY.md) | Privacy policy (publish at `https://echobelogame.com.ng/privacy-policy/`) |
+| [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) | Terms of Service (publish at `https://echobelogame.com.ng/terms-of-service/`; Play trader form) |
 | [COMPLIANCE.md](COMPLIANCE.md) | Google Play pre-submission audit (14 × NO) |
 | [RELEASE.md](RELEASE.md) | Keystore, GitHub Secrets, CI build |
 | [../PRODUCT.md](../PRODUCT.md) | Product context (users, principles, constraints) |
