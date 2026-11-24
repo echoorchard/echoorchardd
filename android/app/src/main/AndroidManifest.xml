@@ -1,4 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- screenOrientation="portrait" makes Play infer a REQUIRED portrait-screen
+         feature, which hides the app from tablets, Chromebooks, Play Games on PC
+         and XR. The game still runs in portrait; this only stops that filtering. -->
+    <uses-feature android:name="android.hardware.screen.portrait" android:required="false" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="false" />
     <application
         android:label="Ripe Rhythm"
         android:name="${applicationName}"
