@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Native launch screen: Echo Orchard's ink background, matching the
+     Flutter splash that fades the dawn painting in over it. -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/orchard_ink" />
+</layer-list>

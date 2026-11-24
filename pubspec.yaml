@@ -1,0 +1,44 @@
+name: echo_orchard
+description: Echo Orchard. Answer the pulse; a cozy offline rhythm-timing harvest game.
+publish_to: 'none'
+version: 1.0.0+2
+
+environment:
+  sdk: ^3.11.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flame: ^1.37.0
+  shared_preferences: ^2.5.5
+  audioplayers: ^6.8.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.14.4
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/audio/
+    - assets/fonts/OFL.txt
+  fonts:
+    - family: Fraunces
+      fonts:
+        - asset: assets/fonts/Fraunces-Regular.ttf
+          weight: 400
+        - asset: assets/fonts/Fraunces-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/Fraunces-Bold.ttf
+          weight: 700
+
+flutter_launcher_icons:
+  android: true
+  ios: false
+  image_path: assets/icon/icon_full.png
+  adaptive_icon_background: "#3D6B4F"
+  adaptive_icon_foreground: assets/icon/icon_foreground.png
+  min_sdk_android: 21
