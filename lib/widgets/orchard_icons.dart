@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../theme/orchard_colors.dart';
 
-/// Echo Orchard's own drawn icon set: 24-unit box, 2-unit ink stroke, round
+/// Ripe Rhythm's own drawn icon set: 24-unit box, 2-unit ink stroke, round
 /// caps and joins. Replaces Material icons and emoji everywhere.
 enum OIcon {
   basket,

@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Echo Orchard — local keystore generator (macOS / Linux / Git Bash)
+# Ripe Rhythm — local keystore generator (macOS / Linux / Git Bash)
 #
 # Generates a JKS release keystore from values YOU type in, then prints the
 # base64 the GitHub Actions workflow needs. It collects NOTHING automatically:
@@ -13,7 +13,7 @@
 
 set -euo pipefail
 
-echo "Echo Orchard release keystore generator"
+echo "Ripe Rhythm release keystore generator"
 echo "Enter your company details (used only for the certificate)."
 echo
 

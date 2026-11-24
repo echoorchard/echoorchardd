@@ -1,4 +1,4 @@
-# Echo Orchard: Game Design Document
+# Ripe Rhythm: Game Design Document
 
 > v2 (ship pass, 12 Nov 2026). The original 20-row blueprint is archived in
 > `archive-v1-blueprint/`.

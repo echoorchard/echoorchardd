@@ -1,4 +1,4 @@
-# Echo Orchard
+# Ripe Rhythm
 
 **Answer the pulse.** A cozy, offline rhythm-timing game for Android. Every
 tree in the orchard pulses on its own tempo: tap it when its echo ring meets

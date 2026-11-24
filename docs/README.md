@@ -1,4 +1,4 @@
-# Echo Orchard: docs index
+# Ripe Rhythm: docs index
 
 **Answer the pulse.** An offline rhythm-timing harvest game for Android
 (Flutter + Flame). 50 rows in five seasons, Daily Row, Long Row, 20 seals,

@@ -1,4 +1,4 @@
-# Echo Orchard — local keystore generator (Windows / PowerShell)
+# Ripe Rhythm — local keystore generator (Windows / PowerShell)
 #
 # Generates a JKS release keystore from values YOU type in, then prints the
 # base64 the GitHub Actions workflow needs. It collects NOTHING automatically:
@@ -12,7 +12,7 @@
 
 $ErrorActionPreference = "Stop"
 
-Write-Host "Echo Orchard release keystore generator" -ForegroundColor Green
+Write-Host "Ripe Rhythm release keystore generator" -ForegroundColor Green
 Write-Host "Enter your company details (used only for the certificate)." -ForegroundColor Cyan
 Write-Host ""
 

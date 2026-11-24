@@ -35,7 +35,7 @@ class EchoOrchardApp extends StatelessWidget {
       progression: progression,
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
-        title: 'Echo Orchard',
+        title: 'Ripe Rhythm',
         theme: ThemeData(
           useMaterial3: true,
           fontFamily: 'Fraunces',

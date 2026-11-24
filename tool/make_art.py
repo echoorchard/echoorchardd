@@ -1,4 +1,4 @@
-"""Echo Orchard bitmap art generator (storybook gouache, procedural).
+"""Ripe Rhythm bitmap art generator (storybook gouache, procedural).
 
 Generates every in-game bitmap into ``assets/images/``:
   * row backgrounds  bg_{spring,summer,autumn,winter,moon}.jpg   1080x1920

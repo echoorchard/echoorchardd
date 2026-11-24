@@ -50,7 +50,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
       backgroundColor: OrchardColors.ink,
       body: Semantics(
         button: true,
-        label: 'Echo Orchard. Tap to enter the orchard.',
+        label: 'Ripe Rhythm. Tap to enter the orchard.',
         child: GestureDetector(
           onTap: _go,
           child: AnimatedBuilder(
@@ -96,7 +96,7 @@ class _SplashScreenState extends State<SplashScreen> with SingleTickerProviderSt
                             child: Transform.translate(
                               offset: Offset(0, 14 * (1 - word)),
                               child: Text(
-                                'Echo Orchard',
+                                'Ripe Rhythm',
                                 style: OrchardText.title(color: OrchardColors.cream)
                                     .copyWith(fontSize: 48, shadows: OrchardText.onArt),
                               ),

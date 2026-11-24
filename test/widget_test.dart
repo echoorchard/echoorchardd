@@ -32,7 +32,7 @@ void main() {
 
   testWidgets('splash shows the wordmark and moves on to the path', (tester) async {
     await boot(tester, route: AppRoutes.splash);
-    expect(find.text('Echo Orchard'), findsOneWidget);
+    expect(find.text('Ripe Rhythm'), findsOneWidget);
     expect(find.text('Answer the pulse.'), findsOneWidget);
     await pumpFor(tester, const Duration(milliseconds: 3200));
     expect(find.bySemanticsLabel(RegExp('First Pulse')), findsOneWidget);

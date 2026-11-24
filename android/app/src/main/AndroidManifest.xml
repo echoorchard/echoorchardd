@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="Echo Orchard"
+        android:label="Ripe Rhythm"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

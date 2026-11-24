@@ -1,4 +1,4 @@
-# Echo Orchard — Improvement Plan (ship pass)
+# Ripe Rhythm — Improvement Plan (ship pass)
 
 Date: 2026-11-12. Supersedes the "pending" phases 10–11 in
 `IMPLEMENTATION_PLAN.md`.
@@ -29,7 +29,7 @@ Fill the basket to the row quota to win; 1–3 stars.
 
 ## 2. Improved concept
 
-**Echo Orchard: answer the pulse.** Walk one hillside orchard from spring
+**Ripe Rhythm: answer the pulse.** Walk one hillside orchard from spring
 blossom to a harvest-moon night. Each season adds one rule to the same tap:
 
 | # | Season | New rule | Rows | Tutorials | Finale |

@@ -1,4 +1,4 @@
-# Echo Orchard: Google Play pre-submission compliance
+# Ripe Rhythm: Google Play pre-submission compliance
 
 Audit date: 12 November 2026 (ship pass). Scope: all of `lib/`, `assets/`
 (every image viewed; every sound is synthesised by `tool/make_sfx.py`),

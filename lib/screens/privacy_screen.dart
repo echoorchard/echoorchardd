@@ -12,7 +12,7 @@ class PrivacyScreen extends StatelessWidget {
   const PrivacyScreen({super.key});
 
   static const points = [
-    'Echo Orchard does not collect any data. Nothing about you or how you '
+    'Ripe Rhythm does not collect any data. Nothing about you or how you '
         'play is gathered, stored elsewhere or shared.',
     'No account or sign-in is needed. Just open the game and play.',
     'Your progress is saved only on this device.',

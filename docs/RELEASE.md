@@ -1,4 +1,4 @@
-# Echo Orchard: Release & CI
+# Ripe Rhythm: Release & CI
 
 Signed Android **APK + AAB** are produced by **GitHub Actions only**. They are
 never built locally, and no signing material ever lives in the repository.
@@ -25,13 +25,13 @@ every future update to this key.
 ## 2. GitHub Secrets (you run these)
 
 From the project root, with the GitHub CLI logged in to this project's account
-(replace `OWNER/REPO`):
+(replace `echoorchard/echoorchardd`):
 
 ```bash
-gh secret set EchoOrchardKeystoreBase64 -R OWNER/REPO < echoorchard-release.jks.base64.txt
-gh secret set EchoOrchardStorePassword -R OWNER/REPO
-gh secret set EchoOrchardKeyPassword -R OWNER/REPO
-gh secret set EchoOrchardKeyAlias -R OWNER/REPO
+gh secret set EchoOrchardKeystoreBase64 -R echoorchard/echoorchardd < echoorchard-release.jks.base64.txt
+gh secret set EchoOrchardStorePassword -R echoorchard/echoorchardd
+gh secret set EchoOrchardKeyPassword -R echoorchard/echoorchardd
+gh secret set EchoOrchardKeyAlias -R echoorchard/echoorchardd
 ```
 
 The last three prompt for the value, so nothing lands in your shell history.

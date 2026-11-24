@@ -1,4 +1,4 @@
-# Echo Orchard: Design Language
+# Ripe Rhythm: Design Language
 
 One hillside orchard, painted in morning light, climbed from spring blossom
 to a harvest-moon night. The look is a **storybook gouache** world (soft

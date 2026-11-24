@@ -1,11 +1,11 @@
 # Privacy Policy
 
-**Echo Orchard**
+**Ripe Rhythm**
 
 **Effective date:** 12 November 2026
 **Last updated:** 12 November 2026
 
-This Privacy Policy explains how **MUMMY FAITHIA BUSINESS VENTURE** ("we", "us", "our") handles information in the mobile game **Echo Orchard** (the "App"), available on Google Play, and on our website https://echobelogame.com.ng. The App is developed by **Comfort Bukunmi Bello** for MUMMY FAITHIA BUSINESS VENTURE, the developer named on the App's Google Play store listing.
+This Privacy Policy explains how **MUMMY FAITHIA BUSINESS VENTURE** ("we", "us", "our") handles information in the mobile game **Ripe Rhythm** (the "App"), available on Google Play, and on our website https://echobelogame.com.ng. The App is developed by **Comfort Bukunmi Bello** for MUMMY FAITHIA BUSINESS VENTURE, the developer named on the App's Google Play store listing.
 
 By installing or using the App, you agree to this Privacy Policy. If you do not agree, please do not use the App.
 
@@ -109,7 +109,7 @@ Because no personal data is collected or transmitted, there is no personal data 
 - **To delete all game data**, you can:
   1. open the App and go to **Wind & Hush → Reset the orchard**, or
   2. uninstall the App, or
-  3. clear the App's storage in your device settings (**Settings → Apps → Echo Orchard → Storage → Clear data**).
+  3. clear the App's storage in your device settings (**Settings → Apps → Ripe Rhythm → Storage → Clear data**).
 
 The App has no accounts, so there is no account to delete. Deleted game data cannot be recovered. To have a support email deleted sooner, just ask us.
 
@@ -117,7 +117,7 @@ The App has no accounts, so there is no account to delete. Deleted game data can
 
 ## 12. Children's Privacy
 
-Echo Orchard is a calm, non-violent rhythm game for a general audience aged 13 and over. **It is not directed at children under 13**, and **we do not collect any personal information from anyone, including children** (under 13, or the equivalent minimum age in your country). The App has no accounts, no chat, no user-generated content, and no way to contact other players.
+Ripe Rhythm is a calm, non-violent rhythm game for a general audience aged 13 and over. **It is not directed at children under 13**, and **we do not collect any personal information from anyone, including children** (under 13, or the equivalent minimum age in your country). The App has no accounts, no chat, no user-generated content, and no way to contact other players.
 
 If you believe a child has sent us personal information by email, please contact us and we will delete it.
 

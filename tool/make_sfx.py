@@ -1,4 +1,4 @@
-"""Echo Orchard - sound effect and ambience synthesiser.
+"""Ripe Rhythm - sound effect and ambience synthesiser.
 
 Synthesises every sound effect and both ambient loops for the game from
 scratch with numpy (no samples, no downloaded audio, nothing to license).

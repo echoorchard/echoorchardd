@@ -1,4 +1,4 @@
-"""Echo Orchard emblem, launcher icon and Play Store art.
+"""Ripe Rhythm emblem, launcher icon and Play Store art.
 
 Generates:
   assets/icon/logo.png               1024x1024 RGBA  emblem on transparency
@@ -6,7 +6,7 @@ Generates:
                                                      foreground; flutter_launcher_icons insets it)
   assets/icon/icon_full.png          1024x1024 RGB   emblem over Leaf Deep (#3D6B4F), legacy icons
   store/icon-512.png                 512x512   RGB   icon_full resized
-  store/feature-graphic.png          1024x500  RGB   orchard dawn + emblem + "Echo Orchard" wordmark
+  store/feature-graphic.png          1024x500  RGB   orchard dawn + emblem + "Ripe Rhythm" wordmark
 
 The emblem: one painterly round-canopied tree on a dawn-sky disc, held by a
 Ripe Gold band ring and two fading cream echo rings. Shares the gouache
@@ -121,7 +121,7 @@ def leaf_background(N, rng):
     return bg
 
 
-def draw_wordmark(img, tx, ty, size, text='Echo Orchard'):
+def draw_wordmark(img, tx, ty, size, text='Ripe Rhythm'):
     """Set the wordmark in Fraunces Bold (cream, soft ink shadow), left-anchored at (tx, ty).
 
     Only the bundled OFL Fraunces is used. If it cannot be loaded (e.g. the file is a

@@ -19,7 +19,7 @@ like rhythm and timing but do not read music and do not want arcade chaos.
 
 ## Product Purpose
 
-Echo Orchard is an offline rhythm-timing game. Each tree in an orchard row
+Ripe Rhythm is an offline rhythm-timing game. Each tree in an orchard row
 pulses on its own tempo; the player taps a tree when its echo ring meets the
 golden ripe band to harvest fruit into a basket. Success: a player learns to
 "listen with their eyes", clears the five seasons, and keeps coming back for
@@ -51,7 +51,7 @@ muted: the visual cue must always be sufficient on its own.
 
 ## Brand Commitments
 
-- Name: **Echo Orchard**. Tagline: "Answer the pulse."
+- Name: **Ripe Rhythm**. Tagline: "Answer the pulse."
 - Voice: warm, unhurried orchard language; never generic "Play / Settings /
   Game Over / Level Select".
 - Font: Fraunces (bundled, SIL OFL).
